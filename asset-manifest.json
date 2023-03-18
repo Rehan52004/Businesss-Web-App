@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Businesss-Web-App/static/css/main.7389b643.css",
+    "main.js": "/Businesss-Web-App/static/js/main.2e03de6f.js",
+    "index.html": "/Businesss-Web-App/index.html",
+    "main.7389b643.css.map": "/Businesss-Web-App/static/css/main.7389b643.css.map",
+    "main.2e03de6f.js.map": "/Businesss-Web-App/static/js/main.2e03de6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7389b643.css",
+    "static/js/main.2e03de6f.js"
+  ]
+}
